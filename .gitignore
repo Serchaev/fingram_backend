@@ -1,0 +1,6 @@
+venv
+.env
+.idea
+jwt-private.pem
+jwt-public.pem
+data
